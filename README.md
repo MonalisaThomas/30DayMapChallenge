@@ -1,8 +1,8 @@
 # 30 Day Map Challenge 2025 — Monalisa Mbilinyi
 
-This repository documents my participation in the global **#30DayMapChallenge** — a community challenge where every day in November we create a map based on a theme.
+This repository documents my participation in the global **#30DayMapChallenge**, a community challenge where we create a map based on a theme every day in November.
 
-My focus will be African geographies — especially Tanzania and Rwanda — and exploring different visual storytelling styles.
+My focus will be on African geographies and exploring different visual storytelling styles.
 
 ---
 
@@ -78,6 +78,6 @@ Check `/Day 1:Points` folder.
 
 ---
 
-Stay tuned as the challenge continues 🚀
+Stay tuned as the challenge continues 
 
 
