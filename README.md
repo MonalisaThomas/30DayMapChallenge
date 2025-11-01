@@ -65,7 +65,7 @@ All external datasets will be cited and credited in each day's folder.
 | Day | Theme | Status |
 |---|---|---|
 | 01 | Points | ✅ Completed |
-| 02 | ??? | coming soon |
+
 
 ---
 
@@ -74,7 +74,7 @@ All external datasets will be cited and credited in each day's folder.
 Day 1 is already uploaded:  
 **Health Facilities in Tanzania** — points + heatmap (interactive)
 
-Check `/day01` folder.
+Check `/Day 1:Points` folder.
 
 ---
 
